@@ -17,10 +17,11 @@ Design: [Comming soon](https://cdn.dribbble.com/users/1355613/screenshots/596447
 ## Project features
 
 -   Github pages
--  
--  
--  
--
+-   responsive design
+-   form
+-   animations
+-   icons
+-   other good/better/best (choose wisely) stuff
 
 ## Authors
 
