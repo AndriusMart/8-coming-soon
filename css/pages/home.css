@@ -12,3 +12,31 @@
 @import "../components/mouse.css";
 @import "../components/progress-bar.css";
 /* customs */
+
+/* HERO -start */
+.hero {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+}
+.hero > .logo {
+    height: 60px;
+
+}
+.hero > .title {
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.hero > .description {
+    font-size: 20px;
+
+}
+
+/* HERO - end */
+
+/* MAIN - start */
+/* MAIN - end */
+
+/* FOOTER - start */
+/* FOOTER - end */
