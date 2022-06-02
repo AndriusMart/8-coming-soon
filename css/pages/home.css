@@ -96,7 +96,24 @@ section.bg-main {
 .footer-bottom a{
     color: #fff;
 }
-
+.futeriukai > * {
+    position: relative;
+}
+.futeriukai > *::after{
+    display: inline-block;
+    content: '';
+    width: 0.65px;
+    height: 20px;
+    background-color: #fff;
+    position: absolute;
+    right: -16px;
+    top: 50%;
+    transform: translate(50%, -50%);
+}
+.futeriukai > *:last-child::after{
+    display: none;
+    
+}
 
 
 /* FOOTER - end */
