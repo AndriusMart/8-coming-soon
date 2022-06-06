@@ -155,7 +155,12 @@ footer.container {
 }
 .futeriukai > *:last-child::after{
     display: none;
-    
+}
+.back-to-top{
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
 }
 
 
