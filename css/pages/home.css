@@ -42,7 +42,7 @@ section.bg-main {
 }
 .subscribe{
     flex-direction: column;
-    width: 80%;
+    width: 85%;
     align-items: center;
 }
 .form.subscribe > input {
