@@ -1,5 +1,6 @@
 .btn{
     padding: 18px 30px;
+    border-radius: 5px;
     font-size: 18px;
     line-height: 18px;
     background-color: red;
