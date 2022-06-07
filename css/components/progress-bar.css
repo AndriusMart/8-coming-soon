@@ -17,7 +17,6 @@
 .progress-bar > .bottom > .bar{
     width: 90%;
     height: 100%;
-    background-color: var(--main-color);
 }
 .progress-bar > .bottom > .bar > .loader {
     width: 100%;
